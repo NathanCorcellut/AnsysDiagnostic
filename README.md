@@ -1,9 +1,9 @@
 # AnsysDiagnostic
-Temporary Repository for exchange with Mr. OTTO
+Temporary Repository for exchange with Cadfem support
 
-Dear Mr. OTTO,
+Dear Mr. JENSCH,
 
-Please find the .zip file here, that you asked me.
+Please find my Ansys Fluent client diagnostic in .zip file here.
 
 Kind Regards,
 Nathan CORCELLUT
